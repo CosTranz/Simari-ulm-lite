@@ -58,4 +58,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 This is a description of my project.
 
-![Screenshot of the project](https://github.com/CosTranz/topup-risingshop/blob/main/screenshot.png)
+![Screenshot of the project](https://github.com/CosTranz/Simari-ulm-lite/blob/main/simari-lite.png?raw=true)
